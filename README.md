@@ -196,7 +196,24 @@ references/      bibliography and internal-source identifiers
 
 ## Articles
 
-Coming soon.
+Articles published on the [DarkMoon blog](https://dark-moon.org/blog/#research-series) (English, 2026-11-20). Series B and C are built on this repository; the others cite it. Engine-side articles (series A: attack paths, evidence model, reliability) are listed in the sister repository [darkmoon-attack-paths-research](https://github.com/ASCIT31/darkmoon-attack-paths-research#8-publications-and-related-articles). Related: [DarkMoon Community](https://github.com/ASCIT31/Dark-Moon) · [Darkmoon-Benchmarks](https://github.com/ASCIT31/Darkmoon-Benchmarks) · [demo.dark-moon.org](https://demo.dark-moon.org) · [docs.dark-moon.org](https://docs.dark-moon.org).
+
+| # | Article | Series | In this repository / evidence |
+|---|---|---|---|
+| 9 | [Redesigning a Cybersecurity Dashboard Around Attack Paths](https://dark-moon.org/blog/redesigning-cybersecurity-dashboard-around-attack-paths/) | B · Data visualization & UX | [Angular evolution](angular/evolution) |
+| 10 | [Visualizing Cyber Attack Paths: From Node-Link Diagrams to Orbital Graphs](https://dark-moon.org/blog/visualizing-cyber-attack-paths-node-link-to-orbital/) | B · Data visualization & UX | [Graph layouts](research/graph-layouts) |
+| 11 | [Progressive Disclosure in Vulnerability Management Interfaces](https://dark-moon.org/blog/progressive-disclosure-in-vulnerability-management-interfaces/) | B · Data visualization & UX | [HCI notes](research/human-computer-interaction) |
+| 12 | [Designing Explainable Security Graphs Without Misrepresenting Evidence](https://dark-moon.org/blog/designing-explainable-security-graphs-without-misrepresenting-evidence/) | B · Data visualization & UX | [Data visualization](research/data-visualization) |
+| 13 | [Our UI Experiments: What Worked, What Failed and Why](https://dark-moon.org/blog/our-ui-experiments-what-worked-what-failed-and-why/) | B · Data visualization & UX | [Failed UI experiments](experiments/failures) |
+| 14 | [Bringing DarkMoon to the Terminal: Building an OpenCode Explorer](https://dark-moon.org/blog/bringing-darkmoon-to-the-terminal-building-an-opencode-explorer/) | C · OpenCode & TUI | [TUI architecture](tui/architecture) |
+| 15 | [From Angular to TUI: Designing Two Interfaces Around the Same Security Data](https://dark-moon.org/blog/from-angular-to-tui-designing-two-interfaces-around-the-same-security-data/) | C · OpenCode & TUI | [Terminal interfaces](research/terminal-interfaces) |
+| 16 | [Designing a Premium Terminal Interface with OpenTUI](https://dark-moon.org/blog/designing-a-premium-terminal-interface-with-opentui/) | C · OpenCode & TUI | [TUI iterations](tui/iterations) |
+| 17 | [Visualizing Attack Paths in ASCII and Unicode](https://dark-moon.org/blog/visualizing-attack-paths-in-ascii-and-unicode/) | C · OpenCode & TUI | [TUI rendering](tui/rendering) |
+| 18 | [Why DarkMoon Community Is Moving from GPLv3 to AGPLv3](https://dark-moon.org/blog/why-darkmoon-community-is-moving-from-gplv3-to-agplv3/) | D · Open source & licence | [LICENSING.md](https://github.com/ASCIT31/Dark-Moon/blob/master/LICENSING.md) |
+| 20 | [Building DarkMoon in the Open: Research, Benchmarks, Failures and Reproducibility](https://dark-moon.org/blog/building-darkmoon-in-the-open-research-benchmarks-failures-and-reproducibility/) | D · Open source & licence | [Darkmoon-Benchmarks](https://github.com/ASCIT31/Darkmoon-Benchmarks) |
+| 21 | [Our Website dark-moon.org Receives an Awwwards Honorable Mention](https://dark-moon.org/blog/darkmoon-site-awwwards-honorable-mention/) | E · Website & recognition | — |
+| 22 | [Behind the Honorable Mention: the Design and Engineering of dark-moon.org](https://dark-moon.org/blog/design-and-engineering-behind-dark-moon-org/) | E · Website & recognition | — |
+| 23 | [From an Award-Winning Website to the Product: How dark-moon.org's Visual Research Shapes the DarkMoon Dashboard and Terminal Explorer](https://dark-moon.org/blog/from-website-to-product-interfaces/) | E · Website & recognition | [Before/after captures](screenshots/comparisons) |
 
 ## How to cite
 
