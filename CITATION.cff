@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+title: "DarkMoon Visualization Research"
+abstract: "Research record of the DarkMoon visualization work (Mar-Nov 2026): Angular dashboard redesign, attack-path graphs (layered, Atlas 2D, orbital 3D/WebXR), executive views and the Terminal Explorer TUI, with real before/after captures on synthetic demo data, decision records, rejected attempts and the measures that exist."
+type: dataset
+authors:
+  - name: "ASC (ASC-IT) — DarkMoon team"
+version: 1.0.0
+date-released: 2026-11-20
+url: "https://github.com/ASCIT31/darkmoon-visualization-research"
+repository-code: "https://github.com/ASCIT31/darkmoon-visualization-research"
+license: AGPL-3.0-only
+keywords:
+  - information visualization
+  - attack paths
+  - security dashboards
+  - terminal user interface
+  - human-computer interaction
+  - progressive disclosure
